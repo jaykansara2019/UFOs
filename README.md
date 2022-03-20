@@ -15,7 +15,7 @@ UFOs (Unidentified Flying Objects) has been a source of curiosity since the dawn
 ![](https://github.com/jaykansara2019/UFOs/blob/e1716d3d4f156d7c0d3de6b9c3ccd73c4770a86a/static/images/UFO_sigthing%20in%20CA.png)
 
 
-## **Summary (Limitations and Improvements)**
+### **Summary (Limitations and Improvements)**
 
 The filters are easy to use, and one can clear the filter by removing the added criteria. Although below are limited when it comes to the useability of the website:
 
